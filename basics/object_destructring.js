@@ -24,6 +24,7 @@ let morning = {
 
 let dinner = "veg and cheese";
 
+// ES6 Restructing
 let backpackingMeals = {
   ...morning,
   dinner
