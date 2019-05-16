@@ -11,7 +11,7 @@ class Vacation {
 
   }
 
-  const trip = new Vacation("Goa", 9)
+  var trip = new Vacation("Goa", 9)
 
   trip.print()
   
@@ -28,7 +28,7 @@ class Vacation {
     }
   }
 
-  const trip = new Expedition(
+  var trip = new Expedition(
     "Mt. Kailash",
     15,
     ["sunglasses", "jackets", "camera"]
