@@ -7,7 +7,7 @@ if (topic) {
 
 function myFunction() {
     var topic = "TypeScript"
-    console.log('function: ', topic)
+    console.log('function/local: ', topic)
 }
 
 myFunction()
