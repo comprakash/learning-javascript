@@ -1,0 +1,16 @@
+{
+  "name": "observability",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Om Prakash C",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.5.2",
+    "ts-node": "^8.1.0",
+    "typescript": "^3.4.5"
+  }
+}
